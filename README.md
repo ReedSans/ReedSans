@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fareed
 
-- 👀 My interests are Chess, Reading & Self-development
+- 👀 Interested in Chess, Reading & Self-development
 - 🌱 I’m currently learning Web development & Digital Marketing
 - 💞️ Excited to collaborate on various web development/design projects
 - ⚡ Fun fact: Your brain is eating itself
